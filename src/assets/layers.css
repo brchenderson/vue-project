@@ -1,0 +1,10 @@
+@layer tailwind-theme;
+
+@layer vuetify-core;
+@layer vuetify-components;
+@layer vuetify-overrides;
+@layer vuetify-utilities;
+
+@layer tailwind-utilities;
+
+@layer vuetify-final;
