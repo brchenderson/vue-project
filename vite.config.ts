@@ -9,6 +9,7 @@ import ViteFonts from 'unplugin-fonts/vite';
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/vue-project/',
   plugins: [
     vue(),
     vueJsx(),
